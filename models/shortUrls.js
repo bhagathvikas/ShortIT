@@ -11,6 +11,10 @@ const shortUrlsSchema = new mongoose.Schema({
         required: true,
         default: shortUrl.generate
     },
+    scan:{
+        type:String,
+
+    },
     clicks:{
         type: Number,
         required:true,

@@ -9,15 +9,14 @@
   "author": "vikasbhagath",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^3.0.1",
     "dotenv": "^16.0.1",
+    "ejs": "^3.0.1",
     "express": "^4.17.1",
     "mongoose": "^5.9.1",
+    "qrcode": "^1.5.1",
     "shortid": "^2.2.15"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
   }
 }
-
-
